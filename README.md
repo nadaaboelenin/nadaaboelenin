@@ -11,7 +11,7 @@
 
 ### 🧩 About Me
 
-I'm a **Frontend Developer** with over 2 years of experience specializing in **React.js** and **WordPress**, blending technical know-how with a rich background of 16+ years in **graphic design**. My journey from creative design to dynamic web development empowers me to craft pixel-perfect, interactive, and high-performing digital products.
+I'm a **Frontend Developer** with over 4 years of experience specializing in **React.js** and **WordPress**, blending technical know-how with a rich background of 16+ years in **graphic design**. My journey from creative design to dynamic web development empowers me to craft pixel-perfect, interactive, and high-performing digital products.
 
 - 💻 I build responsive and SEO-optimized websites using **React.js**, **TailwindCSS**, and **WordPress**.
 - 🔧 I also work with **Python** and **Django** for back-end development and REST APIs.
@@ -24,7 +24,7 @@ I'm a **Frontend Developer** with over 2 years of experience specializing in **R
 ### 🚀 Skills & Tools
 
 **Frontend:**  
-`React.js`, `JavaScript`, `TypeScript`, `TailwindCSS`, `MUI`, `HTML`, `CSS`
+`React.js`, `JavaScript`, `TypeScript`, `TailwindCSS`, `MUI`, `HTML`, `CSS`, NEXTJS
 
 **Backend:**  
 `Python`, `Django`, `REST APIs`
